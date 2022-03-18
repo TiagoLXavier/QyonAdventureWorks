@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u4H4yit0jsZcWfZfoCi42l25cgDV45Pz6kpIJpLfmFiuC6S9+sCGeTyzdE9bHnn86kcQP8tL5PGskK21AtyXdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tico\\source\\repos\\QyonAdventureWorks\\scr\\QyonAdventureWorks.Business\\QyonAdventureWorks.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tico\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

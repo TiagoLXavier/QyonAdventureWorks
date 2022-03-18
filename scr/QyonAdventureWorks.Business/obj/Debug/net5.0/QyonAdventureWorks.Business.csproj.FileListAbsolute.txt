@@ -1,0 +1,12 @@
+C:\Users\Tico\source\repos\QyonAdventureWorks\scr\QyonAdventureWorks.Business\bin\Debug\net5.0\QyonAdventureWorks.Business.deps.json
+C:\Users\Tico\source\repos\QyonAdventureWorks\scr\QyonAdventureWorks.Business\bin\Debug\net5.0\QyonAdventureWorks.Business.dll
+C:\Users\Tico\source\repos\QyonAdventureWorks\scr\QyonAdventureWorks.Business\bin\Debug\net5.0\ref\QyonAdventureWorks.Business.dll
+C:\Users\Tico\source\repos\QyonAdventureWorks\scr\QyonAdventureWorks.Business\bin\Debug\net5.0\QyonAdventureWorks.Business.pdb
+C:\Users\Tico\source\repos\QyonAdventureWorks\scr\QyonAdventureWorks.Business\obj\Debug\net5.0\QyonAdventureWorks.Business.csproj.AssemblyReference.cache
+C:\Users\Tico\source\repos\QyonAdventureWorks\scr\QyonAdventureWorks.Business\obj\Debug\net5.0\QyonAdventureWorks.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tico\source\repos\QyonAdventureWorks\scr\QyonAdventureWorks.Business\obj\Debug\net5.0\QyonAdventureWorks.Business.AssemblyInfoInputs.cache
+C:\Users\Tico\source\repos\QyonAdventureWorks\scr\QyonAdventureWorks.Business\obj\Debug\net5.0\QyonAdventureWorks.Business.AssemblyInfo.cs
+C:\Users\Tico\source\repos\QyonAdventureWorks\scr\QyonAdventureWorks.Business\obj\Debug\net5.0\QyonAdventureWorks.Business.csproj.CoreCompileInputs.cache
+C:\Users\Tico\source\repos\QyonAdventureWorks\scr\QyonAdventureWorks.Business\obj\Debug\net5.0\QyonAdventureWorks.Business.dll
+C:\Users\Tico\source\repos\QyonAdventureWorks\scr\QyonAdventureWorks.Business\obj\Debug\net5.0\ref\QyonAdventureWorks.Business.dll
+C:\Users\Tico\source\repos\QyonAdventureWorks\scr\QyonAdventureWorks.Business\obj\Debug\net5.0\QyonAdventureWorks.Business.pdb
